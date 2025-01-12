@@ -1,0 +1,30 @@
+public class Main {
+    public static void main(String[] args) {
+//            ESERCIZIO CLASSE JAVA
+//      Prodotto p1=new Prodotto("Laptop",999.99,10);
+//
+//      p1.stampaDettagli();
+//
+//        p1.setQuantita(5);
+//
+//      p1.stampaDettagli();
+
+//                ESERCIZIO COSTRUTTORE
+//        Studente studente1 = new Studente("Marco","Buglione",22101);
+//
+//        Studente studente2 = new Studente("Daniel","indrieri",200102);
+//
+//        System.out.println("Studente 1:");
+//        studente1.stampaDettagli();
+//
+//        System.out.println("\nStudente 2:");
+//        studente2.stampaDettagli();
+//
+//                   ESERCIZIO EREDITARIETA
+
+
+
+
+        }
+
+    }
