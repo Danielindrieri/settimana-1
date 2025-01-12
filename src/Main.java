@@ -50,10 +50,19 @@ public class Main {
 //              myveicolo.muovi();
 
 //                   ESERCIZIO INTERFACCIE
+//                 Gatto mycat = new Gatto();
+//                 mycat.mangia();
+//                 mycat.emettiVerso();
 
-                 Gatto mycat = new Gatto();
-                 mycat.mangia();
-                 mycat.emettiVerso();
+//                   ESERCIZIO CLASSI ASTRATTE
+//                  Cerchio mycirlce = new Cerchio("Rosso",5);
+//                  mycirlce.stampaColore();
+//                  System.out.println("Area del cerchio:" + mycirlce.calcolaArea());
+//
+//                  Rettangolo mysquare = new Rettangolo("BLU",4,6);
+//                  mysquare.stampaColore();
+//                  System.out.println("Area del rettangolo:" + mysquare.calcolaArea());
+
         }
 
     }
