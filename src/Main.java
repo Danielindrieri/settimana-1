@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class Main {
     public static void main(String[] args) {
 //            ESERCIZIO CLASSE JAVA
@@ -63,6 +65,16 @@ public class Main {
 //                  mysquare.stampaColore();
 //                  System.out.println("Area del rettangolo:" + mysquare.calcolaArea());
 
-        }
+//                      ESERCIZIO SCANNER
+
+//                   Scanner myscanner = new Scanner(System.in);
+//                   Calcolatrice2 calc = new Calcolatrice2();
+//                   calc.stampaDettagli(10,0);
+//                   calc.stampaDettagli(11,5);
+
+//                        ESERCIZIO POLIFORMISMO
+
+
+    }
 
     }
