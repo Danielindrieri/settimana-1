@@ -35,7 +35,19 @@ public class Main {
 //             myconto.deposita(500.0);
 //             myconto.stampaDettagli();
 
+//                  ESERCIZIO OVERLOADING
+//              Calcolatrice mycal = new Calcolatrice();
+//              mycal.somma(5,3);
+//              mycal.somma(4.4,4.5);
+//              mycal.somma(1,2,7);
+//
+//              mycal.stampaDettagli();
 
+//                   ESERCIZIO OVERRIDING
+              Veicolo myveicolo;
+              myveicolo = new Auto();
+              
+              myveicolo.muovi();
         }
 
     }
