@@ -21,6 +21,15 @@ public class Main {
 //        studente2.stampaDettagli();
 //
 //                   ESERCIZIO EREDITARIETA
+//          Cane mioCane = new Cane();
+//
+//          mioCane.nome = "rocky";
+//          mioCane.eta = 12;
+//          mioCane.abbaia();
+//
+//          mioCane.stampaDettagli();
+//                  ESERCIZIO INCAPSULAMENTO
+
 
 
 
