@@ -29,9 +29,11 @@ public class Main {
 //
 //          mioCane.stampaDettagli();
 //                  ESERCIZIO INCAPSULAMENTO
-
-
-
+//            ContoBancario myconto = new ContoBancario("121212",0);
+//            myconto.setSaldo(300.0);
+//            myconto.preleva(200);
+//             myconto.deposita(500.0);
+//             myconto.stampaDettagli();
 
 
         }
