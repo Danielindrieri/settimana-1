@@ -44,10 +44,16 @@ public class Main {
 //              mycal.stampaDettagli();
 
 //                   ESERCIZIO OVERRIDING
-              Veicolo myveicolo;
-              myveicolo = new Auto();
-              
-              myveicolo.muovi();
+//              Veicolo myveicolo;
+//              myveicolo = new Auto();
+//
+//              myveicolo.muovi();
+
+//                   ESERCIZIO INTERFACCIE
+
+                 Gatto mycat = new Gatto();
+                 mycat.mangia();
+                 mycat.emettiVerso();
         }
 
     }
